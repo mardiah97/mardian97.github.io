@@ -1,4 +1,4 @@
-name: wordpress
+name: kuy
 
 on:  
   push:
